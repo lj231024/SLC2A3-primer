@@ -10,7 +10,10 @@ We updated our SLC2A3 primer, which has a better performance in qRT-PCR to detec
 Primer sequence
 
 HUMAN-SLC2A3-F: TATTGGCCTCTTCTGCGGAC (20 mer)
+
 HUAMN-SLC2A3-R: GTAAAACCCAGTAGCAGCGG (20 mer)
 
+
 HUMAN-GAPDH-F: CTCCTCCACCTTTGACGCTG (20 mer)
+
 HUMAN-GAPDH-R: TCCTCTTGTGCTCTTGCTGG (20 mer)
